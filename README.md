@@ -7,7 +7,7 @@
     	<img src="https://img.shields.io/badge/python-v3.11-informational">
     </a>
     <a href="https://github.com/alcrb/SamBOT">
-    	<img src="https://img.shields.io/github/v/release/alcrb/Sam1.0">
+    	<img src="https://img.shields.io/github/v/release/alcrb/SamBOT">
     </a>
     <img src="https://img.shields.io/github/downloads/alcrb/Sam1.0/total?color=important">
   </p>
