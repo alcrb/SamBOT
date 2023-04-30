@@ -5,7 +5,7 @@
 
 Fonctions du bot :
 
-- Parler en étant le bot
+- Parler à la place du bot
 - Embed personnalisé
 - Purger un channel
 - Statut personnalisé
