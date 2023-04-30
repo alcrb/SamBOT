@@ -6,8 +6,9 @@
 Fonctions du bot :
 
 - Musique
-- Verification
+- Verification utilisateur
 - Modération
+- Role réaction
 - Chatbot (GPT 3.5)
 
 
@@ -19,4 +20,6 @@ npm update
 
 node .
 
-// Ajouter des modules npm i <nomdumodule>
+// Ajouter des modules
+
+ npm i <nomdumodule>
