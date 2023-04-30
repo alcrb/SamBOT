@@ -6,7 +6,7 @@
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/python-v3.11-informational">
     </a>
-    <a href="https://github.com/alcrb/SamBOT/releases/download/Bot/Sam1.0.7z">
+    <a href="https://github.com/alcrb/SamBOT">
     	<img src="https://img.shields.io/github/v/release/alcrb/Sam1.0">
     </a>
     <img src="https://img.shields.io/github/downloads/alcrb/Sam1.0/total?color=important">
