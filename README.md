@@ -1,16 +1,17 @@
 
 ## Features
 
-- Parler à la place du bot
-- Embed personnalisé
-- Purger un channel
-- Statut personnalisé
-- Sondage
-- Musique
-- Verification utilisateur
-- Modération
-- Role réaction
-- Chatbot (GPT 3.5), possible en GPT 4 si abonnement
+- Speak on behalf of the bot
+- Custom embeds
+- Purge a channel
+- Custom status
+- Polls
+- Music
+- User verification
+- Moderation
+- Role reactions
+- Chatbot (GPT 3.5), possible in GPT 4 with a subscription
+
 
  ## Requirements
  
