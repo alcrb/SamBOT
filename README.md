@@ -15,10 +15,11 @@
 
  ## Requirements
  
- - Remplir le .env avec vos ID et API
- - Créer un dossier node_modules et ajouter toute les librairies du package.json
- - Changer l'ID du salon et ajouter les roles pour chaque commande en fonction des votre
- - Lancer le bot et profiter
+- Fill in the .env file with your IDs and API.
+- Create a node_modules folder and add all the libraries from the package.json.
+- Change the channel ID and add roles for each command based on your settings.
+- Launch the bot and enjoy.
+
  
  ## Install
 
