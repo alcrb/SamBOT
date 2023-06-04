@@ -16,6 +16,7 @@
  ## Requirements
  
 - Fill in the .env file with your IDs and API.
+- Add your Guild & Client ID on your handelCommands file
 - Create a node_modules folder and add all the libraries from the package.json.
 - Change the channel ID and add roles for each command based on your settings.
 - Launch the bot and enjoy.
